@@ -29,7 +29,7 @@ function media(arr: number[]):number{
     // return somma(arr) / arr.length
     //*Possiamo usare la funzione somma che abbiamo usato in precedenza per trovare la somma totale dei numeri dell'array
     const sum = somma(arr);//* Ricalcoliamo la somma
-    return sum / arr.length;
+    return sum / arr.length
 }
 
 
